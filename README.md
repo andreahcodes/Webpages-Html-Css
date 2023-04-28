@@ -5,7 +5,7 @@ This project is a webpage developed for a fictional running shoes store.
 
 *The goal is to improve the use of web design to build beautiful interfaces, combining development and design.*
 
-The webpage was built with **HTML and CSS**, using **CSS GRID (#6B46C1)** to organize the elements in a logical and visually appealing way.
+The webpage was built with **HTML and CSS**, using **CSS GRID** to organize the elements in a logical and visually appealing way.
 
 
 ## Loja de Tênis de Corrida - Webpage
