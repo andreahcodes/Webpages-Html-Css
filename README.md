@@ -1,5 +1,5 @@
 # Webpages
-##Running Shoes Store - Webpage
+## Running Shoes Store - Webpage
 
 This project is a webpage developed for a fictional running shoes store.
 
@@ -8,7 +8,7 @@ This project is a webpage developed for a fictional running shoes store.
 The webpage was built with **HTML and CSS**, using **<span style="color:purple">CSS GRID</span>** to organize the elements in a logical and visually appealing way.
 
 
-##Loja de Tênis de Corrida - Webpage
+## Loja de Tênis de Corrida - Webpage
 
 *Este projeto é uma página web desenvolvida para uma loja fictícia de tênis de corrida.* 
 
@@ -17,7 +17,7 @@ O objetivo é aprimorar o uso de web design para construir interfaces bonitas, u
 *A página foi construída com **HTML e CSS**, utilizando o  **<span style="color:purple">CSS GRID</span>**
  para organizar os elementos de forma lógica e visualmente atraente.*
 
-##Conclusão
+## Conclusão
 
 Este projeto é uma ótima oportunidade para aprimorar suas habilidades de web design e desenvolvimento.
 
