@@ -17,9 +17,4 @@ O objetivo é aprimorar o uso de web design para construir interfaces bonitas, u
 *A página foi construída com **HTML e CSS**, utilizando o  **<span style="color:purple">CSS GRID</span>**
  para organizar os elementos de forma lógica e visualmente atraente.*
 
-## Conclusão
-
-Este projeto é uma ótima oportunidade para aprimorar suas habilidades de web design e desenvolvimento.
-
- *Com o uso de técnicas avançadas de CSS e HTML, é possível criar páginas bonitas e funcionais para o seu site de comércio eletrônico.* 
  
