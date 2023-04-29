@@ -18,4 +18,3 @@ O objetivo é aprimorar o uso de web design para construir interfaces bonitas, u
  para organizar os elementos de forma lógica e visualmente atraente.*
 
  
-![webpage01](https://user-images.githubusercontent.com/112190511/235161328-33a1b3c7-379d-49a6-ba5c-d0d2fc115b1d.jpg)
